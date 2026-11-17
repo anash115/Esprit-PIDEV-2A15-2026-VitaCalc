@@ -57,12 +57,12 @@ The database uses relational tables and foreign keys to connect related data. Ea
 
 This project is developed by a team of six students:
 
-- Member 1 – [@nourekin88-lgtm](https://github.com/nourekin88-lgtm)
-- Member 2 – [@yahmaditasnim3-web](https://github.com/yahmaditasnim3-web)
-- Member 3 – [@maicem](https://github.com/maicem)
-- Member 4 – [@jaaferyasmine6-cmyk](https://github.com/jaaferyasmine6-cmyk)
-- Member 5 – [@anash115](https://github.com/anash115)
-- Member 6 – [@alouikarim817-collab](https://github.com/alouikarim817-collab)
+- Noureddine – [@nourekin88-lgtm](https://github.com/nourekin88-lgtm)
+- Tasnim – [@yahmaditasnim3-web](https://github.com/yahmaditasnim3-web)
+- Maycem – [@maicem](https://github.com/maicem)
+- Yassmine – [@jaaferyasmine6-cmyk](https://github.com/jaaferyasmine6-cmyk)
+- Anas– [@anash115](https://github.com/anash115)
+- Karim – [@alouikarim817-collab](https://github.com/alouikarim817-collab)
 
 ## Academic Context
 
